@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Grid_videoplayer/static/css/main.b80de8dc.chunk.css",
-    "main.js": "/Grid_videoplayer/static/js/main.502d85a9.chunk.js",
-    "main.js.map": "/Grid_videoplayer/static/js/main.502d85a9.chunk.js.map",
-    "runtime-main.js": "/Grid_videoplayer/static/js/runtime-main.decf0b09.js",
-    "runtime-main.js.map": "/Grid_videoplayer/static/js/runtime-main.decf0b09.js.map",
-    "static/js/2.61f9e286.chunk.js": "/Grid_videoplayer/static/js/2.61f9e286.chunk.js",
-    "static/js/2.61f9e286.chunk.js.map": "/Grid_videoplayer/static/js/2.61f9e286.chunk.js.map",
+    "main.js": "/Grid_videoplayer/static/js/main.1930140b.chunk.js",
+    "main.js.map": "/Grid_videoplayer/static/js/main.1930140b.chunk.js.map",
+    "runtime-main.js": "/Grid_videoplayer/static/js/runtime-main.ff097860.js",
+    "runtime-main.js.map": "/Grid_videoplayer/static/js/runtime-main.ff097860.js.map",
+    "static/js/2.c07d9c9f.chunk.js": "/Grid_videoplayer/static/js/2.c07d9c9f.chunk.js",
+    "static/js/2.c07d9c9f.chunk.js.map": "/Grid_videoplayer/static/js/2.c07d9c9f.chunk.js.map",
     "index.html": "/Grid_videoplayer/index.html",
-    "precache-manifest.0816158f6e0230c6333ebd3dd57544aa.js": "/Grid_videoplayer/precache-manifest.0816158f6e0230c6333ebd3dd57544aa.js",
+    "precache-manifest.d148dbb78d9841da4d39a03fcc2c1ce9.js": "/Grid_videoplayer/precache-manifest.d148dbb78d9841da4d39a03fcc2c1ce9.js",
     "service-worker.js": "/Grid_videoplayer/service-worker.js",
     "static/css/main.b80de8dc.chunk.css.map": "/Grid_videoplayer/static/css/main.b80de8dc.chunk.css.map",
-    "static/js/2.61f9e286.chunk.js.LICENSE.txt": "/Grid_videoplayer/static/js/2.61f9e286.chunk.js.LICENSE.txt",
+    "static/js/2.c07d9c9f.chunk.js.LICENSE.txt": "/Grid_videoplayer/static/js/2.c07d9c9f.chunk.js.LICENSE.txt",
     "static/media/1.png": "/Grid_videoplayer/static/media/1.04983733.png",
     "static/media/1.mp4": "/Grid_videoplayer/static/media/1.c29fd9d6.mp4",
     "static/media/10.mp4": "/Grid_videoplayer/static/media/10.c29fd9d6.mp4",
@@ -46,9 +46,9 @@
     "static/media/9.mp4": "/Grid_videoplayer/static/media/9.c29fd9d6.mp4"
   },
   "entrypoints": [
-    "static/js/runtime-main.decf0b09.js",
-    "static/js/2.61f9e286.chunk.js",
+    "static/js/runtime-main.ff097860.js",
+    "static/js/2.c07d9c9f.chunk.js",
     "static/css/main.b80de8dc.chunk.css",
-    "static/js/main.502d85a9.chunk.js"
+    "static/js/main.1930140b.chunk.js"
   ]
 }
